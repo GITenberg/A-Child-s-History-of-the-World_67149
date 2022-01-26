@@ -15,6 +15,9 @@ contributor:
     deathdate: 1968
     gutenberg_agent_id: '54132'
     url: http://www.gutenberg.org/2009/agents/54132
+covers:
+- cover_type: archival
+  image_path: 67149-h/images/cover.jpg
 creator:
   author:
     agent_name: Hillyer, V. M. (Virgil Mores)
@@ -24,6 +27,8 @@ creator:
     gutenberg_agent_id: '54131'
     url: http://www.gutenberg.org/2009/agents/54131
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67149#A-Child-s-History-of-the-World
 gutenberg_issued: '2022-01-12'
 identifiers:
   gutenberg: '67149'
